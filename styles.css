@@ -1,0 +1,15 @@
+h1 {
+    color: brown;
+    font: 3em serif;
+    border-style: double;
+    text-decoration: overline;
+}
+      
+      body {
+        color: blue;
+        background-image: url(../res/image.jpg);
+      }
+      p.italic {
+        font-style: italic;
+      }
+      
